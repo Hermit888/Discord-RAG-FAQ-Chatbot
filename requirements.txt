@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+google-genai
+sqlalchemy
+prometheus-client
+discord.py
+pydantic
+google-generativeai
