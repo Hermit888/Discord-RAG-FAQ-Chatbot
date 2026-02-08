@@ -59,7 +59,7 @@ DISCORD_TOKEN=your_discord_bot_token
 ```
 
 ### 2. Build Image
-After running Docker Desktop, open a terminal and naigate to the project folder to type the below command:<br>
+After running Docker Desktop, open a terminal and navigate to the project folder to type the below command:<br>
 ```
 docker build -t discord-rag-backend .
 ```
