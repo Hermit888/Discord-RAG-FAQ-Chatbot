@@ -79,7 +79,7 @@ curl -X POST http://localhost:8000/api/rag-query ^
 ```
 You should get answer.
 
-### Use in Discord
+### 5. Use in Discord
 Open new terminal under the project folder and type:
 ```
 python app/discord_bot.py
